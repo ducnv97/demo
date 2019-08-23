@@ -17,5 +17,5 @@ app.get('/test',(req, res) =>{
 })
 
 app.listen(8000, () => {
-    console.log('server run in port 8000);
+    console.log('server run in port 8000')
 })
